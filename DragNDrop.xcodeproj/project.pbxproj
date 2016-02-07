@@ -156,6 +156,7 @@
 		692930051A58D9D30054D381 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Dan Fairbanks";
 				TargetAttributes = {
@@ -407,6 +408,7 @@
 				6929302E1A58D9D30054D381 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6929302F1A58D9D30054D381 /* Build configuration list for PBXNativeTarget "DragNDropTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +417,7 @@
 				692930311A58D9D30054D381 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
